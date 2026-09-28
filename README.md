@@ -1,28 +1,34 @@
-# Hi, I'm Mehmet Zahid Kaya 👋
+# Merhaba, ben Mehmet Zahid Kaya 👋
 
-Software Engineer building web, desktop and game projects with Python, C#, TypeScript and React.
+Python, C#, TypeScript ve React kullanarak web, masaüstü ve oyun projeleri geliştiren bir Yazılım Mühendisiyim.
 
-## 🚀 Featured Projects
+## 🚀 Öne Çıkan Projeler
 
 ### Loadvia
-A Windows desktop media downloader built with Python.  
-Supports YouTube, Instagram, X/Twitter and other platforms through yt-dlp, with FFmpeg-based media processing, releases, installer/packaging and testing workflows.
 
-🔗 [Repository](https://github.com/zahidkaya1/Loadvia)
+Python ile geliştirdiğim Windows masaüstü medya indirme uygulaması.
+
+YouTube, Instagram, X/Twitter ve yt-dlp tarafından desteklenen diğer platformlardan medya indirmeyi destekler. Projede FFmpeg tabanlı medya işleme, sürüm yönetimi, kurulum/paketleme altyapısı ve test süreçleri bulunur.
+
+🔗 [Projeyi Görüntüle](https://github.com/zahidkaya1/Loadvia)
 
 ### BazaarFlow
-A sales and inventory management application built with React and TypeScript.  
-Includes product and category management, batch-based stock tracking, FIFO costing, historical sales records and profit tracking.
 
-🔗 [Repository](https://github.com/zahidkaya1/BazaarFlow)
+React ve TypeScript ile geliştirdiğim satış ve stok yönetimi uygulaması.
+
+Ürün ve kategori yönetimi, parti bazlı stok takibi, FIFO maliyetlendirme, geçmiş satış kayıtları ve kâr takibi gibi işlevler içerir.
+
+🔗 [Projeyi Görüntüle](https://github.com/zahidkaya1/BazaarFlow)
 
 ### Zahility
-A Minecraft 1.21.1 utility mod developed with Java and NeoForge.  
-Adds custom items, tools, crafting recipes and gameplay mechanics that interact with the game world.
 
-🔗 [Repository](https://github.com/zahidkaya1/Zahility)
+Minecraft 1.21.1 için Java ve NeoForge ile geliştirdiğim yardımcı araçlar ve oyun mekanikleri içeren mod projesi.
 
-## 🛠 Technologies
+Özel item davranışları, crafting tarifleri, araçlar ve oyun dünyasıyla etkileşen çeşitli mekanikler içerir.
+
+🔗 [Projeyi Görüntüle](https://github.com/zahidkaya1/Zahility)
+
+## 🛠️ Teknolojiler
 
 - Python
 - C#
@@ -35,7 +41,7 @@ Adds custom items, tools, crafting recipes and gameplay mechanics that interact 
 - PyTorch
 - YOLO
 
-## 📫 Contact
+## 📫 İletişim
 
 - [LinkedIn](https://www.linkedin.com/in/m-zahid-kaya)
 - [GitHub](https://github.com/zahidkaya1)
