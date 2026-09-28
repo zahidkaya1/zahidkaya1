@@ -38,4 +38,4 @@ Adds custom items, tools, crafting recipes and gameplay mechanics that interact 
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/m-zahid-kaya)
-- GitHub: [@zahidkaya1](https://github.com/zahidkaya1)
+- [GitHub](https://github.com/zahidkaya1)
