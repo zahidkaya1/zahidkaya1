@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mehmet Zahid Kaya 👋
 
-<!--
-**zahidkaya1/zahidkaya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building web, desktop and game projects with Python, C#, TypeScript and React.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Loadvia
+A Windows desktop media downloader built with Python.  
+Supports YouTube, Instagram, X/Twitter and other platforms through yt-dlp, with FFmpeg-based media processing, releases, installer/packaging and testing workflows.
+
+🔗 [Repository](https://github.com/zahidkaya1/Loadvia)
+
+### BazaarFlow
+A sales and inventory management application built with React and TypeScript.  
+Includes product and category management, batch-based stock tracking, FIFO costing, historical sales records and profit tracking.
+
+🔗 [Repository](https://github.com/zahidkaya1/BazaarFlow)
+
+### Zahility
+A Minecraft 1.21.1 utility mod developed with Java and NeoForge.  
+Adds custom items, tools, crafting recipes and gameplay mechanics that interact with the game world.
+
+🔗 [Repository](https://github.com/zahidkaya1/Zahility)
+
+## 🛠 Technologies
+
+- Python
+- C#
+- TypeScript
+- React
+- Java
+- C++
+- Git
+- Unity
+- PyTorch
+- YOLO
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/m-zahid-kaya)
+- GitHub: [@zahidkaya1](https://github.com/zahidkaya1)
