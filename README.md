@@ -1,6 +1,6 @@
 # Merhaba, ben Mehmet Zahid Kaya 👋
 
-Python, C#, TypeScript ve React kullanarak web, masaüstü ve oyun projeleri geliştiren bir Yazılım Mühendisiyim.
+Yazılım Mühendisiyim. Python, C#, TypeScript ve React kullanarak web, masaüstü ve oyun projeleri geliştiriyorum.
 
 ## 🚀 Öne Çıkan Projeler
 
